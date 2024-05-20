@@ -143,3 +143,4 @@ C:\Users\JOHN\source\repos\TwitterAPIs\TwitterAPIs\obj\Debug\net8.0\refint\Schoo
 C:\Users\JOHN\source\repos\TwitterAPIs\TwitterAPIs\obj\Debug\net8.0\SchoolAPIs.pdb
 C:\Users\JOHN\source\repos\TwitterAPIs\TwitterAPIs\obj\Debug\net8.0\SchoolAPIs.genruntimeconfig.cache
 C:\Users\JOHN\source\repos\TwitterAPIs\TwitterAPIs\obj\Debug\net8.0\ref\SchoolAPIs.dll
+C:\Users\JOHN\source\repos\TwitterAPIs\TwitterAPIs\obj\Debug\net8.0\SchoolAPIs.sourcelink.json
